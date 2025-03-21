@@ -1,0 +1,4 @@
+pip install openai langchain streamlit python-dotenv faiss-cpu scikit-learn numpy
+
+
+streamlit run streamlit_app/app.py
